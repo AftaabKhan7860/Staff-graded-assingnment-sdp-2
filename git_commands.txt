@@ -1,0 +1,16 @@
+mkdir : Creates a new directory.
+cd : Navigates into a specified directory.
+touch : Creates an empty file.
+git init : Initializes a new local Git repository.
+git config : Sets the repository user configuration (name and email).
+echo : Writes or appends text to a file.
+git add : Stages changes for the next commit.
+git commit : Saves staged snapshots to the commit history.
+git branch : Lists or creates branches in the repository.
+git checkout : Switches working directory to a specified branch.
+git merge : Integrates changes from one branch into the active branch.
+git log : Displays the commit log history.
+git reset : Undoes commits while preserving local file modifications.
+git status : Displays the status of working directory files and staging area.
+git remote add : Links local repository to a remote GitHub URL.
+git push : Uploads local commits to a remote repository.
